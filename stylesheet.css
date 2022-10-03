@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* max-width: 1080px !important;    */
+    
+        /* margin-right:9px; */
+        /* margin-left: -15px; */
+    
+}
+.navbar-custom {
+    background-color: #ff560b;
+    color: white;
+}
+.lead{
+    font-size: 16px;
+}
+/* .card {
+    
+    border:0ch
+} */
+.btn-dark{
+    border-radius: 26px;
+border-color: red;
+border-width: .1rem;
+}
+.test-custom{
+    color: #ff560b; ;
+}
+.text-dark{
+    text-decoration: none;
+}
